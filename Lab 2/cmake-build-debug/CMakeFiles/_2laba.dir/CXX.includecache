@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/ 2laba/main.cpp
+iostream
+-
+vector.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/ 2laba/vector.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/ 2laba/vector.h
+

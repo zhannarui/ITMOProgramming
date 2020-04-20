@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 5/Array.h
+iostream
+-
+vector
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 5/main.cpp
+iostream
+-
+minNum.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 5/minNum.h
+Array.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 5/Array.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 5/minNum.h
+iostream
+-
+

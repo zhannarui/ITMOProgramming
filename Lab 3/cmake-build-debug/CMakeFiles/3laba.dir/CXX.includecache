@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/3laba/Matrix.h
+vector
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/3laba/Set.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/3laba/main.cpp
+iostream
+-
+Matrix.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/3laba/Matrix.h
+Set.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/3laba/Set.h
+

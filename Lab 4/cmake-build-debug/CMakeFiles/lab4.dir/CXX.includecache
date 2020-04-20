@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/IsTrapezoid.cpp
+iostream
+-
+IsTrapezoid.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/IsTrapezoid.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/IsTrapezoid.h
+iostream
+-
+interfaces.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/interfaces.h
+cmath
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/Segment.cpp
+iostream
+-
+Segment.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/Segment.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/Segment.h
+iostream
+-
+interfaces.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/interfaces.h
+cmath
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/interfaces.h
+iostream
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/main.cpp
+iostream
+-
+IsTrapezoid.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/IsTrapezoid.h
+Segment.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 4/Segment.h
+

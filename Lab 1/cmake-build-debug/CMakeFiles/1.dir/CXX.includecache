@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Прога лабы/1/laba1.cpp
+pointer.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Прога лабы/1/pointer.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Прога лабы/1/main.cpp
+iostream
+-
+pointer.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Прога лабы/1/pointer.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Прога лабы/1/pointer.h
+cmath
+-
+complex
+-
+

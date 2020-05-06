@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 6/Iterator.h
+iterator
+-
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 6/main.cpp
+iostream
+-
+Iterator.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 6/Iterator.h
+vector
+-
+

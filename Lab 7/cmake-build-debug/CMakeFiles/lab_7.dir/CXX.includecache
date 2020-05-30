@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 7/CircleBuffer.h
+
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 7/main.cpp
+iostream
+-
+CircleBuffer.h
+/Users/zannarui/Desktop/ИТМО/2 семестр/Лабы по проге/Lab 7/CircleBuffer.h
+
